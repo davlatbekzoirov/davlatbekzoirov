@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @davlatbekzoirov
-- 👀 I’m interested in creating sites and bots, AI and others
-- 🌱 I’m currently learning DATA SCIENSE
-- 💞️ I’m looking to collaborate on SIFAT IT ACADEMY
-- 😄 Pronouns: english - fluence, uzbek - native, russian - fluence
+- 👋 Salom, men @davlatbekzoirov!
+- 👀Men saytlar va botlar, sun'iy intellekt va boshqa narsalarni yaratishga qiziqaman.
+- 🌱 Men hozirda DATA SCIENCE o'rganmoqdaman.
+- 😄 Men biladigan tillar: inglizcha - ravon, o'zbek - ona, rus - ravon
 
 <picture>
   <source
