@@ -52,10 +52,37 @@
 
 ![Davlatbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=davlatbekzoirov&show_icons=true&theme=radical)
 
-Monday                   601 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Tuesday                  662 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Wednesday                747 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-Thursday                 630 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Friday                   495 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-Saturday                 583 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Sunday                   919 commits         █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["TypeScript", "Javascript", "Python", "Dart"],
+    askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Sass", "Tailwind", "Bootstrap"],
+            uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
+        },
+        backEnd: {
+            js: ["Node", "Express", "NestJS"],
+            python: ["Flask"],
+        },
+        mobileApp: {
+            crossPlatform: ["Flutter"],
+        },
+        devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
+        cloudServices: {
+            aws: ["AWS Fargate", "EC2", "S3", "Lambda", "CloudWatch", "RDS"],
+        },
+        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase Realtime DB", "redis"],
+        misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
+        generativeAI: ["GPT", "Vectorization"],
+    },
+    architecture: {
+        frontEnd: ["SPA", "SSR"],
+        backEnd: ["microservices", "monolithic", "serverless"],
+        devOps: ["CloudFormation", "Serverless Framework"],
+        databases: ["Relational", "NoSQL", "In-memory"],
+    },
+    currentFocus: "Leading a way in generative AI innovation",
+    funFact: "I can debug faster with a coffee in hand!"
+};
