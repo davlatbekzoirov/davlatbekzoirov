@@ -18,6 +18,8 @@
 - 🌱 Men hozirda DATA SCIENCE o'rganmoqdaman.
   
 - 😄 Men biladigan tillar: inglizcha - ravon, o'zbek - ona, rus - ravon
+
+- 👨‍💻 Mening loyihalarim: **https://github.com/davlatbekzoirov** 
   
 
 <picture>
