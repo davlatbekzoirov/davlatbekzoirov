@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Davlatbek Zoirov" />
+</h1>
+
 - 👋 Salom, men Davlatbek!
 - 👀Men saytlar va botlar, sun'iy intellekt va boshqa narsalarni yaratishga qiziqaman.
 - 🌱 Men hozirda DATA SCIENCE o'rganmoqdaman.
