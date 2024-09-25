@@ -62,4 +62,25 @@
 
 ## 🏆 GitHub Trophies
 
+---
+
+<table>
+  <tr>
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=davlatbekzoirov&show_icons=true&theme=github_dark" alt="davlatbek" />
+    </td>
+    <td style="border: none;">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=davlatbekzoirov&theme=github-dark-blue" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+---
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=davlatbekzoirov&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
