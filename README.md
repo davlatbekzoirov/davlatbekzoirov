@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 <p align="center"> 
-  Davlatbek Zoirov<br>
+  <br>
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
 
