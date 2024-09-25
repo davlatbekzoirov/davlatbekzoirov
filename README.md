@@ -49,6 +49,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davlatbekzoirov08@gmail.com)]([GMAIL.COM])
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/davlatbekzoirov)]([https://t.me/davlatbekzoirov])
 
-[![{1CB58500-D90B-4019-A37C-5AEC5C25E79A}](https://github.com/davlatbekzoirov/assets/f55254a6-6c0a-4b96-8382-5992c9cb66eb)
 
-](https://camo.githubusercontent.com/1f6f02d10e00c89c7fca74c3a68753d51254faff3a0cef0d66a5c42b21251328/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4e757262656b3333332673686f775f69636f6e733d74727565267468656d653d676f7468616d)
