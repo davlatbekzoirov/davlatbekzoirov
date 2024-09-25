@@ -13,7 +13,7 @@
 
 - 👋 Salom, men Davlatbek!
   
-- 👀Men saytlar va botlar, sun'iy intellekt va boshqa narsalarni yaratishga qiziqaman.
+- 👀Men saytlar va botlar va sun'iy intellekt yaratishga qiziqaman.
   
 - 🌱 Men hozirda DATA SCIENCE o'rganmoqdaman.
   
