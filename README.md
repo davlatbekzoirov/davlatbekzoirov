@@ -1,6 +1,9 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/davlatbekzoirov/davlatbekzoirov/main/text-1727285849654.png" alt="Davlatbek ZOirov" />
-</h1>
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
 
 
 - 👋 Salom, men Davlatbek!
