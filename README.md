@@ -65,7 +65,7 @@
 <table>
   <tr>
     <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=davlatbekzoirov&show_icons=true&theme=github_dark" alt="davlatbek" />
+      <img src="https://github-readme-stats.vercel.app/api?username=davlatbekzoirov&show_icons=true&theme=radical" alt="davlatbek" />
     </td>
     <td style="border: none;">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=davlatbekzoirov&theme=github-dark-blue" alt="GitHub Streak" />
