@@ -70,7 +70,7 @@
 
 ## 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗦𝘁𝗮𝘁𝘀
 
-<table width="100%" align="center">
+<table width="100%" align="center", height="50%">
   <tr>
     <td align="center">
       <a href="https://github.com/davlatbekzoirov">
