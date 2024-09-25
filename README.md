@@ -51,3 +51,11 @@
 
 
 ![Davlatbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=davlatbekzoirov&show_icons=true&theme=radical)
+
+Monday                   601 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Tuesday                  662 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Wednesday                747 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+Thursday                 630 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Friday                   495 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+Saturday                 583 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Sunday                   919 commits         █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
