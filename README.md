@@ -68,6 +68,31 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davlatbekzoirov08@gmail.com)]([GMAIL.COM])
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/davlatbekzoirov)]([https://t.me/davlatbekzoirov])
 
+<h2 align="center">𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗦𝘁𝗮𝘁𝘀</h2>
+
+<table width="100%" align="center">
+  </tr>
+  <tr>
+    <td width="40%"  align="center">
+        <a href="https://github.com/RanitManik">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=davlatbekzoirov&layout=compact&hide_border=true&theme=radical&langs_count=10" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=davlatbekzoirov&layout=compact&langs_count=10&hide_border=true" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davlatbekzoirov&layout=compact&hide_border=true&theme=radical&langs_count=10" alt="Top Languages" />
+          </picture>
+        </a>
+    </td>
+    <td width="60%"  align="center">
+        <a href="https://github.com/RanitManik">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&hide_border=true&theme=radical&langs_count=10&hide=other" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&langs_count=10&hide_border=true&hide=other" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&hide_border=true&theme=radical&langs_count=10&hide=other" alt="Wakatime Stats" />
+          </picture>
+        </a>
+      </td>
+  </tr>
+</table>
 
 ## 🏆 GitHub Trophies
 
