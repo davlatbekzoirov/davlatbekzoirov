@@ -71,26 +71,27 @@
 ## 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗦𝘁𝗮𝘁𝘀
 
 <table width="100%" align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/davlatbekzoirov">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=davlatbekzoirov&layout=compact&hide_border=true&theme=radical&langs_count=10" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=davlatbekzoirov&layout=compact&langs_count=10&hide_border=true" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davlatbekzoirov&layout=compact&hide_border=true&theme=radical&langs_count=10" alt="Top Languages" style="width:100%;" />
+        </picture>
+      </a>
+    </td>
   </tr>
   <tr>
-    <td width="40%"  align="center">
-        <a href="https://github.com/davlatbekzoirov">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=davlatbekzoirov&layout=compact&hide_border=true&theme=radical&langs_count=10" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=davlatbekzoirov&layout=compact&langs_count=10&hide_border=true" />
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davlatbekzoirov&layout=compact&hide_border=true&theme=radical&langs_count=10" alt="Top Languages" />
-          </picture>
-        </a>
+    <td align="center">
+      <a href="https://github.com/davlatbekzoirov">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=davlatbekzoirov&layout=compact&hide_border=true&theme=radical&langs_count=10&hide=other" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=davlatbekzoirov&layout=compact&langs_count=10&hide_border=true&hide=other" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=davlatbekzoirov&layout=compact&hide_border=true&theme=radical&langs_count=10&hide=other" alt="Wakatime Stats" style="width:100%;" />
+        </picture>
+      </a>
     </td>
-    <td width="60%"  align="center">
-        <a href="https://github.com/davlatbekzoirov">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=davlatbekzoirov&layout=compact&hide_border=true&theme=radical&langs_count=10&hide=other" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=davlatbekzoirov&layout=compact&langs_count=10&hide_border=true&hide=other" />
-            <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=davlatbekzoirov&layout=compact&hide_border=true&theme=radical&langs_count=10&hide=other" alt="Wakatime Stats" />
-          </picture>
-        </a>
-      </td>
   </tr>
 </table>
 
