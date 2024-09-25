@@ -1,3 +1,8 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/davlatbekzoirov/davlatbekzoirov/main/text-1727285849654.png" alt="Davlatbek ZOirov" />
+</h1>
+
+
 - 👋 Salom, men Davlatbek!
 - 👀Men saytlar va botlar, sun'iy intellekt va boshqa narsalarni yaratishga qiziqaman.
 - 🌱 Men hozirda DATA SCIENCE o'rganmoqdaman.
