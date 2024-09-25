@@ -12,11 +12,11 @@
 <img align="right" alt="Coding" width="430" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
 - 👋 Salom, men Davlatbek!
-- 
+  
 - 👀Men saytlar va botlar, sun'iy intellekt va boshqa narsalarni yaratishga qiziqaman.
-- 
+  
 - 🌱 Men hozirda DATA SCIENCE o'rganmoqdaman.
-- 
+  
 - 😄 Men biladigan tillar: inglizcha - ravon, o'zbek - ona, rus - ravon
   
 
