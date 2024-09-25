@@ -70,14 +70,14 @@
 
 ## 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗦𝘁𝗮𝘁𝘀
 
-<table width="100%" align="center", height="50%">
+<table width="100%" align="center" height="100%">
   <tr>
-    <td align="center">
+    <td align="center" style="padding: 10px;">
       <a href="https://github.com/davlatbekzoirov">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=davlatbekzoirov&layout=compact&hide_border=true&theme=radical&langs_count=10" />
           <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=davlatbekzoirov&layout=compact&langs_count=10&hide_border=true" />
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davlatbekzoirov&layout=compact&hide_border=true&theme=radical&langs_count=10" alt="Top Languages" style="width:100%;" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davlatbekzoirov&layout=compact&hide_border=true&theme=radical&langs_count=10" alt="Top Languages" style="width: 80%; height: auto;" />
         </picture>
       </a>
     </td>
