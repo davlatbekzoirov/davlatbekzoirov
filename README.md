@@ -50,3 +50,4 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/davlatbekzoirov)]([https://t.me/davlatbekzoirov])
 
 
+![Davlatbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=davlatbekzoirov&show_icons=true&theme=radical)
