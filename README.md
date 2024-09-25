@@ -82,17 +82,6 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/davlatbekzoirov">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=davlatbekzoirov&layout=compact&hide_border=true&theme=radical&langs_count=10&hide=other" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=davlatbekzoirov&layout=compact&langs_count=10&hide_border=true&hide=other" />
-          <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=davlatbekzoirov&layout=compact&hide_border=true&theme=radical&langs_count=10&hide=other" alt="Wakatime Stats" style="width:100%;" />
-        </picture>
-      </a>
-    </td>
-  </tr>
 </table>
 
 ## 🏆 GitHub Trophies
