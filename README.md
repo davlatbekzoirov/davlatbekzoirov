@@ -48,3 +48,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davlatbek-zoirov-9293642a4)]
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davlatbekzoirov08@gmail.com)]([GMAIL.COM])
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/davlatbekzoirov)]([https://t.me/davlatbekzoirov])
+
+![{1CB58500-D90B-4019-A37C-5AEC5C25E79A}](https://github.com/davlatbekzoirov/assets/f55254a6-6c0a-4b96-8382-5992c9cb66eb)
+
