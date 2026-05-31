@@ -30,4 +30,4 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davlatbekzoirov&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davlatbekzoirov&show_icons=true&theme=dark&cache_seconds=1800)
