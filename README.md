@@ -27,7 +27,3 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/davlatbekzoirov)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:davlatbekzoirov08@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davlatbek-zoirov-9293642a4)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davlatbekzoirov&show_icons=true&theme=dark&cache_seconds=1800)
