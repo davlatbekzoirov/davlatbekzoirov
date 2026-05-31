@@ -4,7 +4,7 @@
 
 ---
 
-👋 Salom, men **Davlatbek**!  
+## 👋 Salom, men **Davlatbek**!  
 🔭 Saytlar, botlar va AI loyihalari bilan shug'ullanaman  
 🌱 Hozirda **Data Science** o'rganmoqdaman  
 📂 Loyihalarim: [github.com/davlatbekzoirov](https://github.com/davlatbekzoirov)
