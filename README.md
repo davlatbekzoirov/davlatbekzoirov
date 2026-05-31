@@ -4,13 +4,6 @@
 
 ---
 
-👋 Salom, men **Davlatbek**!  
-🔭 Saytlar, botlar va AI loyihalari bilan shug'ullanaman  
-🌱 Hozirda **Data Science** o'rganmoqdaman  
-📂 Loyihalarim: [github.com/davlatbekzoirov](https://github.com/davlatbekzoirov)
-
----
-
 **🛠 Stack**
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
