@@ -4,15 +4,15 @@
 
 ---
 
-## 👋 Salom, men Davlatbek!
-
+👋 Salom, men **Davlatbek**!  
 🔭 Saytlar, botlar va AI loyihalari bilan shug'ullanaman  
 🌱 Hozirda **Data Science** o'rganmoqdaman  
-📂 [Mening loyihalarim](https://github.com/davlatbekzoirov)
+📂 Loyihalarim: [github.com/davlatbekzoirov](https://github.com/davlatbekzoirov)
 
 ---
 
 **🛠 Stack**
+
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 ![DRF](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
