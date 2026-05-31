@@ -7,6 +7,7 @@
 ## 👋 Salom, men Davlatbek!
 
 🔭 Saytlar, botlar va AI loyihalari bilan shug'ullanaman  
+🌱 Hozirda **Data Science** o'rganmoqdaman  
 📂 [Mening loyihalarim](https://github.com/davlatbekzoirov)
 
 ---
