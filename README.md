@@ -5,13 +5,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=685&height=44&lines=Backend%20Developer;Building%20cool%20things%20with%20open-source%20code." alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=685&height=44&lines=Backend%20Developer;Building%20cool%20things%20with%20open-source%20code." alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
 
 A passionate tech enthusiast who loves building cool web projects and exploring new technologies.
 
+🌱 &nbsp;I'm currently learning **Deutsch**  
 👯 &nbsp;I'm looking to collaborate on **Open-source web tools**  
 🤔 &nbsp;I'm looking for help with **Understanding databases**  
 😄 &nbsp;Pronouns: **He/Him**  
@@ -59,12 +60,6 @@ A passionate tech enthusiast who loves building cool web projects and exploring 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=davlatbekzoirov&show_icons=true&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=davlatbekzoirov&layout=compact&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=davlatbekzoirov&bg_color=00000000&color=2f81f7&line=2f81f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
